@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rc.logo" format="1">
+	<advance width="2110"/>
+	<outline>
+		<component base="rc.logo.sin" xOffset="50" yOffset="500"/>
+		<component base="rc.logo.latin" xOffset="61" yOffset="190"/>
+		<component base="rc.logo.tam" xOffset="10" yOffset="-130"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>rc.logo.sin</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>rc.logo.latin</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>rc.logo.tam</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-07-24 08:11:42 +0000</string>
+		</dict>
+	</lib>
+</glyph>
