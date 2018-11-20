@@ -5,7 +5,7 @@
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
 		<string>/rc.logo</string>
-		<string>/rc.logo.sin/rc.logo</string>
+		<string>/rc.logo.sin/rc.logo.sin/rc.logo.tam/rc.logo</string>
 		<string>s</string>
 		<string>
 
@@ -16,7 +16,6 @@
 
 
 </string>
-		<string>/rc.logo.sin/rc.logo</string>
 	</array>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
